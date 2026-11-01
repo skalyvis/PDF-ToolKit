@@ -1,4 +1,3 @@
-<!doctype html>
 <!--
   Privacy policy for the first release (no ads, no network). Publish it at a public URL (the page
   privacy-policy.html next to this file) and enter that URL in Play Console (App content > Privacy
